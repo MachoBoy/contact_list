@@ -1,5 +1,6 @@
 # contact_list
-This is simple contact list using React
+This is simple contact list using React.
+
 <ul>
   <li> React </li>
   <li> Webpack </li>
